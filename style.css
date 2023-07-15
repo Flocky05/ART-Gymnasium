@@ -20,7 +20,7 @@
     padding: 20px;
     font-size: 24px;
 }
-.navabar-right p:hover{
+.navbar-right p:hover{
     color: rgb(255, 30, 0);
     cursor: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/sad.png"), auto;
     
@@ -44,4 +44,7 @@
     padding: 5px 13px;
     margin-top: 5px;
     border-radius: 5px;
+}
+.main-left >button:hover{
+    background-color: rgb(255, 30, 0);
 }
