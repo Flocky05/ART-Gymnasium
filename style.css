@@ -1,0 +1,22 @@
+* {
+    padding: 0px;
+    margin: 0px;
+  
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.navbar >h2{
+    color: red;
+}
+.navbar-right{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    color: white;
+}
+.navabar-right:hover{
+    
+}
