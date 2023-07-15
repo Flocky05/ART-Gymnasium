@@ -10,13 +10,38 @@
 }
 .navbar >h2{
     color: red;
+    padding: 20px;
 }
-.navbar-right{
+.navbar-right {
     display: flex;
     justify-content: space-evenly;
     gap: 20px;
     color: white;
+    padding: 20px;
+    font-size: 24px;
 }
-.navabar-right:hover{
+.navabar-right p:hover{
+    color: rgb(255, 30, 0);
+    cursor: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/sad.png"), auto;
     
+}
+/* main section */
+
+.main{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+.main-left >h2{
+   color: red; 
+}
+.main-left >button{
+    background-color: orangered;
+    color: white;
+    padding: 5px 13px;
+    margin-top: 5px;
+    border-radius: 5px;
 }
