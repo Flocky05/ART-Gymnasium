@@ -48,3 +48,15 @@
 .main-left >button:hover{
     background-color: rgb(255, 30, 0);
 }
+
+
+/* Look section */
+.look{
+    display: flex;
+    justify-content: space-around;
+    gap:20px;
+}
+.look1{
+    border: 2px solid green;
+    padding: 20px;
+}
