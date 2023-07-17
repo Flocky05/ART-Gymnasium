@@ -99,3 +99,21 @@
     margin: auto;
     padding: 20px;
 }
+.about-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.about-section-left{
+display: flex;
+padding: 30px;
+}
+.about-section-left img{
+    padding: 30px;
+}
+.about-section-right button{
+   background-color: orange;
+   padding: 5px 3px;
+   border-radius: 5px;
+   border: 1px solid gray;
+}
