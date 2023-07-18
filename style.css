@@ -171,8 +171,12 @@ padding: 30px;
 }
 
 .footer{
+    display: flex;
+justify-content:space-around;
     width: full;
     height:256px;
     background-color: gray;
     color:white;
+   justify-content: center;
+   padding: 36px;
 }
