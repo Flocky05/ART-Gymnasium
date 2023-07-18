@@ -167,6 +167,12 @@ padding: 30px;
 }
 .work-inquiry-right:hover{
     background-color: blue;
-    color: white;
-    
+    color: white; 
+}
+
+.footer{
+    width: full;
+    height:256px;
+    background-color: gray;
+    color:white;
 }
