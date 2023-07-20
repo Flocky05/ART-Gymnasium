@@ -172,11 +172,16 @@ padding: 30px;
 
 .footer{
     display: flex;
-justify-content:space-around;
     width: full;
     height:256px;
     background-color: gray;
     color:white;
-   justify-content: center;
-   padding: 36px;
+    justify-content: center;
+    padding: 36px;
+}
+.footer-left>h3{
+padding: 20px;
+}
+.footer-right>h3{
+padding: 20px;
 }
