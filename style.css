@@ -171,12 +171,31 @@ padding: 30px;
 }
 
 /* our service section block */
+.our-services >h2{
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+    font-size: 52px;
+}
 .our-service-card{
     background-color: white;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    padding-bottom: 20%;
+    margin-bottom: 20%;
+    
 }
-
+.card-body{
+    padding: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.our-service-card-blow-1{
+    display: flex;
+    justify-content: space-between;
+}
+.card-body-p >h2{
+    color: red;
+}
 /* footer section */
 .main-footer{
     width: full;
