@@ -169,12 +169,18 @@ padding: 30px;
     background-color: blue;
     color: white; 
 }
-
-.footer{
-    display: flex;
+.main-footer{
     width: full;
     height:256px;
     background-color: gray;
+}
+.main-footer >h2{
+    text-align: center;
+    padding: 2%;
+}
+
+.footer{
+    display: flex;
     color:white;
     justify-content: center;
     padding: 36px;
