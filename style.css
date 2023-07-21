@@ -199,6 +199,10 @@ padding: 30px;
     border-radius: 5px;
     color: white;
 }
+.card-join:hover{
+    background-color: blue;
+    color: aliceblue;
+}
 .card-body-p >h2{
     color: red;
 }
