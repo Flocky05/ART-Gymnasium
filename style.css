@@ -193,6 +193,12 @@ padding: 30px;
     display: flex;
     justify-content: space-between;
 }
+.card-join{
+    background-color: orangered;
+    padding: 5px 8px;
+    border-radius: 5px;
+    color: white;
+}
 .card-body-p >h2{
     color: red;
 }
